@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/deathstar.png)](taxonomy)
+[![](assets/img/deathstar.png)](principles)
