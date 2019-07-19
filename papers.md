@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/papers.png)](papers)
+[![](assets/img/papers.png)](deathstar)
