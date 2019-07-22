@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/technologies.png)](technologies)
+[![](assets/img/technologies.png)](nsquared)
