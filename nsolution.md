@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/nsolution.png)](plate)
+[![](assets/img/nsolution.png)](gateway)
