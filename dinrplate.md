@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/dinrplate.png)](dinrplate)
+[![](assets/img/dinrplate.png)](mechanical)
