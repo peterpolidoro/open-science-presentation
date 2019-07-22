@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/class.png)](sane)
+[![](assets/img/class.png)](cars)
