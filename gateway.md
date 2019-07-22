@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/gateway.png)](plate)
+[![](assets/img/gateway.png)](standards)
