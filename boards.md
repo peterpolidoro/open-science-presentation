@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/boards.png)](boards)
+[![](assets/img/boards.png)](firmware)
