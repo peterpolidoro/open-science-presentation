@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/dds.png)](dds)
+[![](assets/img/dds.png)](ros-dds)
