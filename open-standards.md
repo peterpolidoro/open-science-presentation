@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/open-standards.png)](plate)
+[![](assets/img/open-standards.png)](dod)
